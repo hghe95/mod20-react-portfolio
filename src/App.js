@@ -1,5 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import React from `react`;
+import AboutMe from `./components/AboutMe`;
+import Contact from `./components/Contact`;
+import Portfolio from `./components/Portfolio`;
+import Resume from `./components/Resume`;
+import Navbar from `./components/Navbar`;
 
 function App() {
   return (
